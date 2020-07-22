@@ -16,6 +16,7 @@ This is an application that scrapes data from certain cards that the user puts i
     * [ ] See card's lowest price by month
 2. [ ] Vistors only see homepage
 3. [ ] Vistors can see the most watched card
+4. [ x ] Angular Setup
 
 ## Database
 
