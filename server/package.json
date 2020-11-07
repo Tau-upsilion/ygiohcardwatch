@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5"
   }
 }
