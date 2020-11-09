@@ -56,15 +56,15 @@ This is an application that scrapes data from certain cards that the user puts i
 3. [ ] Authentication
     * [ ] Add auth router
     * [ ] Create user with POST (Signup)
-        * [ x ] Validating fields
-        * [ x ] Check Email Uniqueness
-        * [ x ] Hash password to DB
-        * [ x ] Insert to DB
+        * [x] Validating fields
+        * [x] Check Email Uniqueness
+        * [x] Hash password to DB
+        * [x] Insert to DB
     * [ ] Login user with POST (Login)
         * [ ] Check email in DB
-            * [ x ] Compare passwords
-            * [ x ] Create and Sign JWT
-                * [ x ] Respond
+            * [x] Compare passwords
+            * [x] Create and Sign JWT
+                * [x] Respond
     * [ ] Create login form; error handling; redirection;
         * [ ] Validate required fields
     * [ ] Create sign up form; error handling; redirection;
