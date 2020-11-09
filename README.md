@@ -22,7 +22,7 @@ This is an application that scrapes data from certain cards that the user puts i
 
 ### Database Features
 
-1. [ ] Setting up MariaDB RDMS
+1. <s>[ ] Setting up MariaDB RDMS</s>
 2. [ ] Database to keep track of cards and prices
 3. [ ] Keeps track of users
 4. [ ] Keeps track of users' choices for watched cards
@@ -56,15 +56,15 @@ This is an application that scrapes data from certain cards that the user puts i
 3. [ ] Authentication
     * [ ] Add auth router
     * [ ] Create user with POST (Signup)
-        * [ ] Validating fields
-        * [ ] Check Email Uniqueness
-        * [ ] Hash password to DB
-        * [ ] Insert to DB
+        * [ x ] Validating fields
+        * [ x ] Check Email Uniqueness
+        * [ x ] Hash password to DB
+        * [ x ] Insert to DB
     * [ ] Login user with POST (Login)
         * [ ] Check email in DB
-            * [ ] Compare passwords
-            * [ ] Create and Sign JWT
-                * [ ] Respond
+            * [ x ] Compare passwords
+            * [ x ] Create and Sign JWT
+                * [ x ] Respond
     * [ ] Create login form; error handling; redirection;
         * [ ] Validate required fields
     * [ ] Create sign up form; error handling; redirection;
